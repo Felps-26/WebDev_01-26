@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\filip\\.antigravity\\Repositories\\WebDev_01-26\\modern-pudim"
+publishOrigin = "default"
+base = "C:\\Users\\filip\\.antigravity\\Repositories\\WebDev_01-26\\modern-pudim"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
